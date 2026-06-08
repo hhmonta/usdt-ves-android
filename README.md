@@ -15,8 +15,8 @@ App de Android que muestra las cotizaciones de compra y venta de USDT/VES (Tethe
 
 Esta app utiliza la API pública de [CriptoYa](https://criptoya.com/api):
 
-- Endpoint: `GET https://api.criptoya.com/v2/USDT/VES`
-- Retorna cotizaciones de múltiples exchanges latinoamericanos
+- Endpoint: `GET https://criptoya.com/api/USDT/VES`
+- Retorna cotizaciones de múltiples exchanges P2P (binancep2p, okexp2p, bybitp2p, etc.)
 
 ## Tecnologías
 
