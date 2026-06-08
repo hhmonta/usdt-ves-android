@@ -4,11 +4,11 @@ import retrofit2.http.GET
 
 /**
  * API de CriptoYa - https://criptoya.com/api
- * Endpoint: GET /v2/USDT/VES
- * Devuelve cotizaciones de USDT/VES de múltiples exchanges
+ * Endpoint: GET /api/USDT/VES
+ * Devuelve cotizaciones de USDT/VES de múltiples exchanges P2P
  */
 interface CriptoYaApiService {
 
-    @GET("v2/USDT/VES")
+    @GET("api/USDT/VES")
     suspend fun getUsdtVesRates(): Map<String, ExchangeData>
 }
