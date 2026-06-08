@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">USDT/VES</string>
+    <string name="tab_prices">Precios</string>
+    <string name="tab_history">Historial</string>
+    <string name="sell_label">VENTA</string>
+    <string name="buy_label">COMPRA</string>
+    <string name="search_hint">Buscar exchange...</string>
+    <string name="no_history">Sin historial aún</string>
+    <string name="no_history_desc">Los datos se registran automáticamente con cada actualización de precios.</string>
+    <string name="error_connection">Error de conexión</string>
+    <string name="last_updated">Última actualización</string>
+</resources>

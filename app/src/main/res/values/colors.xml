@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tether_green">#50AF95</color>
+    <color name="tether_green_dark">#3D8B74</color>
+    <color name="sell_red">#EF5350</color>
+    <color name="buy_green">#4CAF50</color>
+    <color name="dark_background">#0F0F1A</color>
+    <color name="dark_surface">#1A1A2E</color>
+</resources>
